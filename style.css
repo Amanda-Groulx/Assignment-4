@@ -1,12 +1,12 @@
 body {
-		background-color: #22223b;
-		color: #4a4e69;
+  background-color: #22223b;
+  color: #4a4e69;
 }
 
 .image {
-		weight: 300px;
-		height: 300px;
-	}
+	width: 300px;
+  height: 300px;
+}
 
 p {
   color: #9a8c98;
