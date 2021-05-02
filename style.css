@@ -1,13 +1,25 @@
+body {
+		background-color: #22223b;
+		color: #4a4e69;
+}
+
+.image {
+		weight: 300px;
+		height: 300px;
+	}
+
 p {
   color: #9a8c98;
   font-size: 20px;
 }
+
 .center {
   font-size: 200%;
   text-align: center;
   margin: 0%;
   position: relative;
 }
+
 .timeline {
   margin: auto;
   width: 100%;
