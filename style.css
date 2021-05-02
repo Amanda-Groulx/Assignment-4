@@ -1,6 +1,6 @@
 body {
   background-color: #22223b;
-  color: #4a4e69;
+  color: #959bb9;
 }
 
 .image {
@@ -9,7 +9,7 @@ body {
 }
 
 p {
-  color: #9a8c98;
+  color: #b3a2b0;
   font-size: 20px;
 }
 
@@ -26,4 +26,10 @@ p {
   border: 3px;
   padding: 10px;
   background-color: #f2e9e4;
+}
+
+.quote {
+  text-align: center;
+  margin: 0%;
+  position: relative;
 }
